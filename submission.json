@@ -1,0 +1,13 @@
+{
+  "milestone": "day-02",
+  "team": "为ai发电",
+  "members": ["任彤", "张传喆", "张满", "汪桐葳"],
+  "repository_url": "建好 GitHub 仓库后再填",
+  "run_command": "python train.py --model cnn",
+  "test_command": "python -m unittest discover -s tests -v",
+  "report": "report.md",
+  "presentation": "presentation.pptx",
+  "presentation_minutes": 3,
+  "student_confirmed_no_secrets": false
+}
+
